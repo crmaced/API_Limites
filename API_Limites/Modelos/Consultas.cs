@@ -3,13 +3,15 @@ using API_Limites.Controllers;
 
 namespace API_Limites.Modelos
 {
-    public class Clientes
+    public class Consultas
     {
         public int CD_Cliente { get; set; }
 
         public string Nome_RazaoSocial { get; set; }
 
-        public string ID_Tipo { get; set; }
+        public int ID_Tipo { get; set; }
+
+        public string Tipo { get; set; }
 
         public string CPF_CNPJ { get; set; }
 
@@ -17,8 +19,14 @@ namespace API_Limites.Modelos
 
         public string Email { get; set; }
 
+        public int ID_Status { get; set; }
+        
         public string Status { get; set; }
+        
+        public decimal Limite_Total { get; set; }
 
+        public decimal Limite_Tomado { get; set; }
 
+        public decimal Limite_Disponivel { get; set; }
     }
 }

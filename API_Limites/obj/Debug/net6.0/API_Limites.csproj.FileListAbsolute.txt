@@ -35,3 +35,4 @@ C:\Users\cmacedo\Desktop\Projetos\API_Limites\API_Limites\obj\Debug\net6.0\refin
 C:\Users\cmacedo\Desktop\Projetos\API_Limites\API_Limites\obj\Debug\net6.0\API_Limites.pdb
 C:\Users\cmacedo\Desktop\Projetos\API_Limites\API_Limites\obj\Debug\net6.0\API_Limites.genruntimeconfig.cache
 C:\Users\cmacedo\Desktop\Projetos\API_Limites\API_Limites\obj\Debug\net6.0\ref\API_Limites.dll
+C:\Users\cmacedo\Desktop\Projetos\API_Limites\API_Limites\bin\Debug\net6.0\FluentValidator.dll
